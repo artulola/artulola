@@ -8,7 +8,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
+Tenho vários planos pra minha vida, mas o principal deles é construir meu império.
+"No meio da dificuldade encontra-se a oportunidade." - Autor Desconhecido.
 
 
 
